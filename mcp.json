@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "zipir": {
+      "url": "https://api.zipirapp.com/mcp"
+    }
+  }
+}

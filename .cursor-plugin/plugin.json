@@ -1,0 +1,14 @@
+{
+  "name": "zipir",
+  "displayName": "Zıpır",
+  "version": "1.0.0",
+  "description": "Turn a document, PDF, deck or web page into a Turkish-narrated video lesson where every on-screen sentence cites its source. Connects Cursor to the Zıpır MCP server.",
+  "author": {
+    "name": "VitrinAI Digital Studio",
+    "email": "merhaba@zipirapp.com"
+  },
+  "homepage": "https://zipirapp.com/en/api/",
+  "license": "MIT",
+  "keywords": ["mcp", "video", "documents", "citations", "education", "training", "turkish"],
+  "logo": "assets/logo.svg"
+}
